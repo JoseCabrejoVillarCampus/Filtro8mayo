@@ -82,33 +82,6 @@
       }
     },
     {
-      "id": 1,
-      "nombre": "juan",
-      "edad": "36",
-      "email": "wsasdaf",
-      "direccion": "qfqfq",
-      "fecha_de_nacimiento": "8545",
-      "numero_de_identificacion": "321",
-      "fecha_de_ingreso_al_programa": "sasss",
-      "team": {
-        "id": "2",
-        "nombre": "artemis",
-        "trainer_asociado": "vermer"
-      },
-      "evaluacion": {
-        "id": 1,
-        "nota": 1,
-        "skill": {
-          "id": "4",
-          "nombre": "html",
-          "moduloSkill": {
-            "id": "5",
-            "nombre": "flexbox"
-          }
-        }
-      }
-    },
-    {
       "id": 1683569963644,
       "nombre": "",
       "edad": "",
