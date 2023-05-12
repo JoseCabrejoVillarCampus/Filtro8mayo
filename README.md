@@ -1,1 +1,1 @@
-Ni sabe como pas
+Ni sabe como pasó
